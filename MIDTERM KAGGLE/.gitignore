@@ -1,0 +1,16 @@
+# Entorno virtual de Python
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Datos originales de Kaggle
+X_train_Kaggle.csv
+y_train_Kaggle.csv
+X_test_Kaggle.csv
+sample_submission_malnutrition.csv
+
+# Configuraciones locales
+.vscode/
